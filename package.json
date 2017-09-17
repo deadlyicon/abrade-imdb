@@ -1,0 +1,28 @@
+{
+  "name": "abrade-imdb",
+  "version": "0.0.1",
+  "description": "imdb scraper using abrade",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadlyicon/abrade-imdb.git"
+  },
+  "keywords": [
+    "scrape",
+    "imdb",
+    "scraper",
+    "abrade"
+  ],
+  "author": "Jaredd Grippe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deadlyicon/abrade-imdb/issues"
+  },
+  "homepage": "https://github.com/deadlyicon/abrade-imdb#readme",
+  "dependencies": {
+    "abrade": "file:../abrade"
+  }
+}
