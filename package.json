@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/deadlyicon/abrade-imdb#readme",
   "dependencies": {
-    "abrade": "file:../abrade"
+    "abrade": "github:deadlyicon/abrade"
   }
 }
